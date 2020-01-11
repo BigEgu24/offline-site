@@ -1,9 +1,9 @@
 const cacheName = 'v1';
 
 const cacheAssets = [
-  'index.html',
-  'main.bundle.js',
-  '/js/main.js'
+  '/offline-site.github.io/index.html',
+  '/offline-site.github.io/main.bundle.js',
+  '/offline-site.github.io/js/main.js'
 ];
 
 // Call Install Event
